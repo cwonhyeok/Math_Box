@@ -11,6 +11,3 @@ return a*b
 <<<<<<< HEAD
 def divide_premium(a, b):
     return a/b
-
-def say_hello():
-    print('hello')
